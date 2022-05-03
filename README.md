@@ -4,4 +4,4 @@ Created By [Papachristou Ioannis](https://github.com/dit18146) and [Papavasilopo
 
 ## Description
 
-A **C** program designed for the purposes of Data Structures course, that uses Stack Operations, in order to decomposite a given Number into all possible **Sum Compinations**. 
+A **C** program designed for the purposes of Data Structures course, that uses Stack Operations, in order to decomposite a given Number into all possible **Sum Combinations**. 
