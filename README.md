@@ -1,4 +1,4 @@
-# Number-Sum-Compination-Decomposition-C-Program
+# Number-Sum-Combination-Decomposition-C-Program
 
 Created By [Papachristou Ioannis](https://github.com/dit18146) and [Papavasilopoulos Ioannis](https://github.com/yiannnnis)  
 
